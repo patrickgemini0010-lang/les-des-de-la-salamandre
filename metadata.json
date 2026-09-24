@@ -1,0 +1,6 @@
+{
+  "name": "Les Dés De La Salamandre",
+  "description": "Site officiel de l'association Les Dés De La Salamandre : jeux de société modernes, jeux de rôle, agenda des soirées ludiques, ludothèque et espace membres sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
